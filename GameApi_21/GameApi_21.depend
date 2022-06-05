@@ -1,0 +1,32 @@
+# depslib dependency file v1.0
+1653436262 source:c:\users\ul0246800\source\repos\langtonsant\gameapi_21\engine.cpp
+	"engine.h"
+
+1653437374 c:\users\ul0246800\source\repos\langtonsant\gameapi_21\engine.h
+
+1653437146 source:c:\users\ul0246800\source\repos\langtonsant\gameapi_21\game.cpp
+	<time.h>
+	"game.h"
+
+1651514657 c:\users\ul0246800\source\repos\langtonsant\gameapi_21\game.h
+	"engine.h"
+
+1651514624 source:c:\users\ul0246800\source\repos\langtonsant\gameapi_21\gameapi.cpp
+	"gameapi.h"
+
+1651501560 c:\users\ul0246800\source\repos\langtonsant\gameapi_21\gameapi.h
+	<windows.h>
+	"game.h"
+
+1651501560 source:c:\users\ul0246800\source\repos\langtonsant\gameapi_21\gametxt.cpp
+	"gametxt.h"
+
+1651501560 c:\users\ul0246800\source\repos\langtonsant\gameapi_21\gametxt.h
+	<iostream>
+	"game.h"
+
+1653435699 source:c:\users\ul0246800\source\repos\langtonsant\gameapi_21\main.cpp
+	<tchar.h>
+	<windows.h>
+	"gameapi.h"
+
